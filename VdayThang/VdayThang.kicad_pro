@@ -49,7 +49,10 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "unconnected_items|138941750|83473750|d2aaaf63-5bef-4374-b10d-3c12181c714b|412da485-50de-45f6-8add-e19e2203bdeb",
+        "unconnected_items|175695750|83213750|e95fdabf-a4c8-466f-8514-908e535ff571|384a4cbd-1e61-4051-a4a1-3e5355f9024a"
+      ],
       "meta": {
         "version": 2
       },
