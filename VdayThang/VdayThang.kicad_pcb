@@ -2386,6 +2386,18 @@
     (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp fe9ad509-1a90-41e3-9a02-896bd9848006))
   (gr_line (start 132.464697 51.994282) (end 134.496697 51.994282)
     (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp ffefd909-5c50-4094-a8e3-d36025b799e8))
+  (gr_line (start 143.66875 145.25625) (end 105.804666 102.922917)
+    (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 10f02e37-6f85-494d-afdb-aa7c09a7e8aa))
+  (gr_arc (start 105.804666 102.922917) (mid 96.212794 87.182812) (end 92.86875 69.05625)
+    (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 239dcd45-203f-4ea4-99a6-dcb98fbdbb5b))
+  (gr_arc (start 194.46875 69.05625) (mid 191.124706 87.182812) (end 181.532834 102.922917)
+    (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 24237b50-b826-485d-96d1-f1e5b84721a2))
+  (gr_line (start 143.66875 145.25625) (end 181.532834 102.922917)
+    (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 276c140d-5e9b-4df4-8011-c8db364865ee))
+  (gr_arc (start 143.66875 69.05625) (mid 169.06875 43.65625) (end 194.46875 69.05625)
+    (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp 4b640248-4e8e-4bb2-9206-12916d5c2009))
+  (gr_arc (start 92.86875 69.05625) (mid 118.26875 43.65625) (end 143.66875 69.05625)
+    (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp e3077e4a-c645-4bdd-97a3-5d0dfd791ae3))
 
   (segment (start 96.04375 63.5) (end 101.45625 58.0875) (width 0.25) (layer "F.Cu") (net 1) (tstamp 04cb8e6b-b716-4c97-9b1b-4492de00a53b))
   (segment (start 101.45625 58.0875) (end 101.45625 56.35625) (width 0.25) (layer "F.Cu") (net 1) (tstamp 0856bfb8-6fa3-472c-90e9-0e675469c8f4))
@@ -2638,6 +2650,16 @@
       fc796a48-b196-4e4c-898f-0b9b8a99d7c8
       fe9ad509-1a90-41e3-9a02-896bd9848006
       ffefd909-5c50-4094-a8e3-d36025b799e8
+    )
+  )
+  (group "" (id 627bf66d-ce7d-42bf-90d7-45007c2f4c65)
+    (members
+      10f02e37-6f85-494d-afdb-aa7c09a7e8aa
+      239dcd45-203f-4ea4-99a6-dcb98fbdbb5b
+      24237b50-b826-485d-96d1-f1e5b84721a2
+      276c140d-5e9b-4df4-8011-c8db364865ee
+      4b640248-4e8e-4bb2-9206-12916d5c2009
+      e3077e4a-c645-4bdd-97a3-5d0dfd791ae3
     )
   )
 )
